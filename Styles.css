@@ -1,0 +1,53 @@
+body,html{ background-color: #f6f6f6;
+}
+#painting { background-color: #fff4db;
+		    height:  400px;
+		    width: 400px;
+		    margin-top: 30px;
+		    margin-left: auto;
+		    margin-right: auto;
+}
+#toprow { height: 290px;
+}
+#bigbox { height: 290px;
+		  width: 290px;
+}
+#topdivider{
+ width:10px;
+ height:290px;
+}
+#divider2{height: 10px
+		  width: 120px;
+}
+#divider3{
+height: 10px;
+width: 400px;
+}
+#topleftcolum{ width: 120px;
+			   height: 290px;
+}
+.mediumbox{
+display: flex;
+flex-direction: column;
+float: right;
+}
+.red{ background-color: red;
+}
+.blue{ background-color: blue;
+}
+.yellow {background-color: yellow;
+}
+.black{ background-color: black;
+}
+.right{ float: right;
+}
+.left{ float: left; 
+}
+#box1{ 
+height: 140px;
+width: 110px; 
+}
+#box2{
+height: 140px
+width: 110px;
+}
